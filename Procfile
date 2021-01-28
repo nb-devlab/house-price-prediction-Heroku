@@ -1,1 +1,0 @@
-web:gunicorn --pythonpath  HousePricePred_flask:app
