@@ -1,0 +1,1 @@
+web: gunicorn  HousePricePred_flask:app
