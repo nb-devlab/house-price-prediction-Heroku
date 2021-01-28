@@ -1,1 +1,1 @@
-web:gunicorn HousePricePred_flask.py:app
+web:gunicorn --pythonpath HousePricePred_flask.py:app
